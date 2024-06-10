@@ -14,7 +14,12 @@ body {
     color: #61DAFB !important;
 }
 
-a {
-    text-decoration: none !important;
-    color: #61DAFB !important;
+.users {
+    margin-top: 2rem !important;
+}
+
+.users:hover {
+    transition: background-color 0.3s ease;
+    opacity: 0.8;
+    background-color: gray
 }

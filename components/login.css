@@ -1,0 +1,16 @@
+input {
+    width: 100%;
+    background-color: inherit;
+    border: solid white 3px;
+    padding: 0.5rem;
+    color: white;
+}
+
+.content {
+    margin-top: 1rem;
+}
+
+#game-starter {
+    border: none;
+    width: 100%;
+}
